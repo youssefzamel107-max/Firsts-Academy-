@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>أكاديمية الأوائل — طريقك للتفوّق | 2027</title>
+<meta name="description" content="ملخصات وأسئلة يومية ومراجعات لطلاب تانية ثانوي (بكالوريا وأزهر 2027) من أكاديمية الأوائل.">
+<meta name="theme-color" content="#111b35">
+<meta name="color-scheme" content="light dark">
+<script type="application/json" id="site-data">{"banner":""}</script>
+<meta property="og:title" content="أكاديمية الأوائل | تانية ثانوي 2027">
+<meta property="og:description" content="شرح مبسّط، سؤال كل يوم، ومراجعات قبل الامتحان.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;700;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#f6f7fb;--card:#fff;--text:#17213b;--muted:#69738b;--accent:#c8f169;--brand:#111b35;--onbrand:#fff;--line:#e3e7f0;--wa:#168a58;--shadow:0 14px 38px rgba(18,29,58,.07);--soft:#edf2ff;color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}
+:root[data-theme="dark"]{--bg:#0d1220;--card:#151d30;--text:#f0f3fb;--muted:#a5afc5;--accent:#c8f169;--brand:#080d18;--onbrand:#fff;--line:#2a344b;--soft:#202b42;--shadow:0 14px 38px rgba(0,0,0,.2);color-scheme:dark}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:24px}body{margin:0;background:var(--bg);color:var(--text);font-family:"Cairo",Tahoma,Arial,sans-serif;line-height:1.85;padding-bottom:88px;transition:background .2s,color .2s}a,button,input,textarea,select{font:inherit}a{color:inherit}button{cursor:pointer}::selection{background:var(--accent);color:#10182c}.wrap{max-width:1040px;margin:0 auto;padding:0 22px}
+.hero{position:relative;overflow:hidden;background:radial-gradient(ellipse at 12% 10%,rgba(200,241,105,.17),transparent 32%),linear-gradient(135deg,#101a34 0%,#172b50 58%,#203d62 100%);color:#fff;text-align:right;padding:30px max(22px,calc((100vw - 996px)/2)) 54px;border-radius:0 0 34px 34px;isolation:isolate}.hero:after{content:"";position:absolute;width:320px;height:320px;border:1px solid rgba(200,241,105,.18);border-radius:50%;left:-115px;bottom:-180px;box-shadow:0 0 0 35px rgba(200,241,105,.025),0 0 0 70px rgba(200,241,105,.025);z-index:-1}.hero h1{font-size:clamp(2.2rem,5vw,4rem);line-height:1.2;letter-spacing:-1.5px;margin:18px 0 12px;font-weight:800}.hero>p{max-width:620px;color:#d4dceb;font-size:1.04rem;margin:0 0 24px}.hero .badge{display:inline-flex;align-items:center;gap:8px;background:rgba(200,241,105,.13);border:1px solid rgba(200,241,105,.4);color:#e5ffb4;border-radius:99px;padding:5px 14px;font-size:.83rem;font-weight:800}.logo{width:58px;height:58px;margin:0 0 18px;border-radius:18px;background:var(--accent);color:#14203a;display:grid;place-items:center;font-size:1.8rem;box-shadow:0 10px 30px #080d1833}.hero .btn{margin-top:4px}.stats{display:flex;justify-content:flex-start;gap:10px;flex-wrap:wrap;margin-top:30px}.stats div{min-width:112px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.13);border-radius:15px;padding:9px 15px;font-size:.82rem;color:#dce4f3}.stats b{display:block;font-size:1.1rem;color:var(--accent)}.daily{margin:20px 0 0;max-width:600px;color:#e4f8b7;font-weight:700}
+.btn{display:inline-flex;justify-content:center;align-items:center;gap:8px;background:var(--accent);color:#14203a;text-decoration:none;font-weight:800;font-size:1rem;padding:13px 23px;border-radius:13px;border:1px solid transparent;box-shadow:0 8px 22px rgba(200,241,105,.15);transition:transform .18s,filter .18s}.btn:hover,.btn2:hover{transform:translateY(-2px);filter:brightness(1.02)}.btn:active,.btn2:active{transform:scale(.98)}.btn2{display:inline-flex;justify-content:center;align-items:center;text-decoration:none;font-weight:800;padding:10px 17px;border:1px solid var(--line);border-radius:12px;background:var(--card);color:var(--text);transition:transform .18s}.bar{position:fixed;bottom:0;left:0;right:0;z-index:5;display:flex;justify-content:center;padding:10px 16px;padding-bottom:calc(10px + env(safe-area-inset-bottom,0px));background:color-mix(in srgb,var(--card) 92%,transparent);backdrop-filter:blur(16px);border-top:1px solid var(--line)}.bar .btn{width:100%;max-width:500px;padding:10px 20px}
+section{padding:35px 0 5px}h2{font-size:clamp(1.3rem,2.4vw,1.7rem);line-height:1.5;margin:0 0 17px;font-weight:800;letter-spacing:-.3px}h2:after{content:"";display:block;width:44px;height:4px;border-radius:9px;background:var(--accent);margin-top:8px}.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}.card,.about,.post,.time,details{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:18px;box-shadow:var(--shadow)}.card{transition:transform .18s,border-color .18s}.grid .card:hover{transform:translateY(-3px);border-color:#c8d99d}.card b{display:block;font-size:1.02rem;margin-bottom:4px}.card span,details p{color:var(--muted);font-size:.93rem}.post{border-right:4px solid var(--accent);box-shadow:none}.post p{margin:4px 0}.en{direction:ltr;text-align:left;unicode-bidi:embed;color:var(--muted)}.steps{counter-reset:s;list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px}.steps li{counter-increment:s;background:var(--card);border:1px solid var(--line);border-radius:16px;padding:18px 16px;box-shadow:var(--shadow)}.steps li:before{content:counter(s,decimal-leading-zero);display:block;color:#61772b;font-weight:800;font-size:1.05rem;margin-bottom:7px}.time{display:flex;align-items:center;gap:14px;border-right:4px solid var(--accent)}.time .big{font-size:2rem}.time span{color:var(--muted)}.time b{color:var(--text)}details{padding:12px 16px;margin-bottom:10px;box-shadow:none}summary{font-weight:800;cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:12px}summary:after{content:"＋";color:#82964e;font-weight:800}details[open] summary:after{content:"−"}details p{margin:8px 0 2px}.cta{display:flex;flex-direction:column;align-items:center;gap:12px;text-align:center;padding:44px 20px 24px;margin-top:34px;border-radius:24px;background:var(--soft)}.cta h2{margin-bottom:0}.cta h2:after{margin-inline:auto}.cta p{color:var(--muted);margin:0 0 6px}.tm{text-align:center}.tm .clock{font-size:clamp(2.5rem,8vw,3.6rem);font-weight:800;letter-spacing:2px;direction:ltr;font-variant-numeric:tabular-nums}.tm .mode{color:var(--muted)}.tm button{font-weight:800;border:0;border-radius:11px;padding:10px 22px;margin:6px 4px 0;background:var(--accent);color:#17213b}.tm button.sec{background:var(--bg);color:var(--text);border:1px solid var(--line)}.banner{background:var(--accent);color:#17213b;text-align:center;font-weight:800;padding:8px 14px}.chips{display:flex;gap:8px;overflow-x:auto;padding:4px 0 12px;scrollbar-width:thin}.chip{flex:0 0 auto;border:1px solid var(--line);background:var(--card);color:var(--text);border-radius:99px;padding:7px 14px;cursor:pointer;font-weight:700}.chip.on{background:var(--brand);border-color:var(--brand);color:white}.srch{width:100%;padding:13px 15px;border:1px solid var(--line);border-radius:13px;background:var(--card);color:var(--text);margin-bottom:10px;outline:none}.srch:focus,.tin input:focus{border-color:#91ad43;box-shadow:0 0 0 3px rgba(200,241,105,.18)}.prog{height:9px;background:var(--line);border-radius:99px;overflow:hidden;margin:12px 0}.prog i{display:block;height:100%;width:0;background:var(--wa);transition:width .3s}.task{display:flex;align-items:center;gap:10px;padding:9px 0;border-bottom:1px solid var(--line)}.task.done span{text-decoration:line-through;color:var(--muted)}.tin{display:flex;gap:8px}.tin input{min-width:0;flex:1;padding:10px 12px;border:1px solid var(--line);border-radius:11px;background:var(--bg);color:var(--text)}.tin button{font-weight:800;border:0;border-radius:11px;padding:10px 16px;background:var(--accent);color:#17213b}.opt{display:block;width:100%;text-align:left;color:var(--text);background:var(--bg);border:1px solid var(--line);border-radius:12px;padding:11px 14px;margin-top:9px;direction:ltr;transition:border-color .15s,background .15s}.opt:hover{border-color:#9db65a}.opt.ok{border-color:#1faa59;background:rgba(31,170,89,.12)}.opt.no{border-color:#d64545;background:rgba(214,69,69,.1)}#res{margin:10px 0 0;font-weight:800;min-height:1.8em}.scroller{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:2px 2px 12px;margin-bottom:4px;-webkit-overflow-scrolling:touch}.rv{flex:0 0 min(340px,84%);scroll-snap-align:start;margin:0}.hint{margin:0 0 14px;color:var(--muted);font-size:.85rem;text-align:center}.theme-toggle{position:absolute;left:20px;top:20px;width:44px;height:44px;border:1px solid #ffffff35;border-radius:14px;background:#ffffff12;color:#fff;font-size:1.15rem;backdrop-filter:blur(8px)}.topline{display:flex;align-items:center;justify-content:space-between;gap:12px}.topline .badge{margin-bottom:5px}footer{text-align:center;color:var(--muted);font-size:.85rem;padding:24px 18px 28px}a:focus-visible,button:focus-visible,summary:focus-visible,input:focus-visible{outline:3px solid #9bbf4a;outline-offset:3px}
+@media(min-width:760px){.hero{padding-top:48px;padding-bottom:58px}.hero>p{font-size:1.1rem}.wrap{padding:0 28px}.grid{gap:16px}section{padding-top:42px}.about,.card,.post{padding:22px}}
+@media(max-width:560px){.hero{padding:76px 20px 38px;border-radius:0 0 25px 25px}.hero h1{font-size:2.3rem}.wrap{padding:0 17px}.grid{grid-template-columns:1fr}.steps{grid-template-columns:1fr}.steps li{padding:13px 15px}.stats{gap:8px}.stats div{flex:1;min-width:calc(33.3% - 8px);padding:8px 10px}.time{align-items:flex-start}.tin button{padding:9px 12px}.cta{padding:30px 16px}.theme-toggle{left:17px;top:17px}}
+@media(prefers-reduced-motion:reduce){*,*:before,*:after{scroll-behavior:auto!important;transition:none!important;animation:none!important}}
+</style>
+</head>
+<body>
+<div id="banner" class="banner" hidden></div>
+<header class="hero">
+  <button class="theme-toggle" id="themeToggle" type="button" aria-label="تغيير المظهر" title="تغيير المظهر">☾</button>
+  <div class="logo" aria-hidden="true">📚</div>
+  <span class="badge">تانية بكالوريا وأزهر 2027</span>
+  <h1>أكاديمية الأوائل</h1>
+  <p>المنهج كبير ومش عارف تذاكر منين؟ إحنا هنلخصلك المهم ونسألك كل يوم عشان تثبّت المعلومة.</p>
+  <a class="btn" href="https://whatsapp.com/channel/0029VbBqFXoJ93wRhDyWuy12">ادخل القناة على واتساب</a>
+  <p id="daily" class="daily"></p>
+  <div class="stats"><div><b>+3000</b>متابع</div><div><b>كل يوم</b>سؤال جديد</div><div><b>ملخصات</b>ومراجعات</div></div>
+</header>
+
+<main class="wrap">
+  <section>
+    <h2>هتلاقي إيه في القناة؟</h2>
+    <div class="grid">
+      <div class="card"><b>📚 شرح مبسّط</b><span>الدروس من غير تعقيد وفي الأساس</span></div>
+      <div class="card"><b>📝 سؤال كل يوم</b><span>اختبر مستواك وثبّت المعلومة</span></div>
+      <div class="card"><b>🔁 مراجعات</b><span>ملخصات سريعة قبل الامتحان</span></div>
+      <div class="card"><b>🤝 دعم مستمر</b><span>نساعد بعض ونوصل لأعلى الدرجات</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>ميعاد سؤال اليوم</h2>
+    <div class="time"><span class="big">🕙</span><div><b id="timeTxt">كل يوم الساعة 10</b><br><span style="color:var(--muted)">سؤال جديد، والإجابة بتتنزل بعده. خليك متابع وما تفوتوش.</span></div></div>
+  </section>
+
+  <section>
+    <h2>مين وراء الأكاديمية؟</h2>
+    <div class="about"><p id="aboutTxt" style="margin:0">أنا <b>حماده</b>، الأدمن بتاع القناة لوحدي، أخوكم وعايز أفيدكم. هدفي نوصل كلنا لأعلى الدرجات بإذن الله، وأي سؤال أو اقتراح ابعتهولي في القناة.</p></div>
+  </section>
+
+  <section>
+    <h2>ابدأ في 3 خطوات</h2>
+    <ol class="steps">
+      <li>ادخل القناة من الزر اللي فوق</li>
+      <li>فعّل التنبيهات عشان يوصلك كل جديد</li>
+      <li>حل سؤال اليوم وشارك القناة مع زميلك</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>مثال من اللي بننشره</h2>
+    <div class="post">
+      <p><b>📝 المضارع البسيط | Present Simple</b></p>
+      <p>✅ بنستخدمه في العادات والحقائق</p>
+      <p class="en">I study every day<br>The sun rises in the east</p>
+      <p>⚠️ فخ الامتحان: مع he / she / it لازم نزود s</p>
+      <p class="en">She studies ✅ &nbsp; She study ❌</p>
+    </div>
+  </section>
+
+  <section>
+    <h2>نصايح مذاكرة 💡</h2>
+    <div class="grid">
+      <div class="card"><b>⏱️ 45 + 10</b><span>ذاكر 45 دقيقة وارتاح 10</span></div>
+      <div class="card"><b>✍️ حل بعد كل درس</b><span>المذاكرة بدون حل مش كاملة</span></div>
+      <div class="card"><b>🔍 راجع غلطك</b><span>دوّن أخطاءك وراجعها قبل الامتحان</span></div>
+      <div class="card"><b>😴 نوم كفاية</b><span>المخ بيثبّت المعلومة وقت النوم</span></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>مؤقّت المذاكرة ⏰</h2>
+    <div class="card tm">
+      <div class="mode" id="tmode"></div>
+      <div class="clock" id="clk">45:00</div>
+      <button id="tgo">ابدأ</button><button class="sec" id="trs">إعادة</button>
+    </div>
+    <script>
+      (function(){var m='study',t=2700,iv=null,c=document.getElementById('clk'),l=document.getElementById('tmode'),b=document.getElementById('tgo');
+      function f(){var a=Math.floor(t/60),s=t%60;c.textContent=(a<10?'0':'')+a+':'+(s<10?'0':'')+s;l.textContent=m==='study'?'وقت المذاكرة 📖':'وقت الراحة ☕';}
+      function tick(){t--;if(t<=0){m=m==='study'?'rest':'study';t=m==='study'?2700:600;}f();}
+      b.onclick=function(){if(iv){clearInterval(iv);iv=null;b.textContent='ابدأ';}else{iv=setInterval(tick,1000);b.textContent='إيقاف';}};
+      document.getElementById('trs').onclick=function(){clearInterval(iv);iv=null;m='study';t=2700;b.textContent='ابدأ';f();};f();})();
+    </script>
+  </section>
+
+  <section>
+    <h2>مكتبة الملخصات 📖</h2>
+    <input id="srch" class="srch" type="search" placeholder="دوّر على درس...">
+    <div id="chips" class="chips"></div>
+    <div id="lib"></div>
+  </section>
+
+  <section>
+    <h2>جدول مذاكرتك ✅</h2>
+    <div class="card">
+      <div class="tin"><input id="tin" placeholder="مثال: حل مسائل رياضة"><button id="tadd">إضافة</button></div>
+      <div class="prog"><i id="pbar"></i></div>
+      <div id="ptxt" class="hint"></div>
+      <div id="plist"></div>
+    </div>
+  </section>
+  <script>
+    (function(){
+      var M=['كل يوم بتذاكره النهاردة بيقرّبك خطوة من حلمك بكرة 💙','المذاكرة الهادية والمستمرة أحسن من مذاكرة ساعات مرة واحدة 📚','ابدأ بالدرس اللي مش عارفه من أول اليوم وهتلاقيه أسهل 💪','غلطة النهاردة هي درجة هتكسبها في الامتحان 🎯','راجع اللي ذاكرته امبارح قبل ما تبدأ جديد ✨','خطوة صغيرة كل يوم توصّلك للنجاح 🚀','ثقتك بنفسك أهم من أي ملخص 🤍'];
+      document.getElementById('daily').textContent=M[Math.floor(Date.now()/864e5)%M.length];
+      var SUBJ=['القرآن والتفسير','الحديث','التوحيد','الفقه','الرياضيات','الكيمياء','الفيزياء','الإنجليزي','اللغة العربية'];window.SUBJ=SUBJ;
+      var SD2={};try{SD2=JSON.parse(document.getElementById('site-data').textContent)||{};}catch(e){}
+      var sums=SD2.sums||[],cur='الكل',q='';
+      function rl(){var box=document.getElementById('lib');box.textContent='';var n=0;sums.forEach(function(s){if((cur==='الكل'||s[0]===cur)&&(!q||(s[1]+' '+s[2]).indexOf(q)>-1)){n++;var d=document.createElement('details');var sm=document.createElement('summary');sm.textContent=s[1]+' · '+s[0];var p=document.createElement('p');p.style.whiteSpace='pre-wrap';p.textContent=s[2];d.appendChild(sm);d.appendChild(p);box.appendChild(d);}});if(!n){var e=document.createElement('p');e.className='hint';e.textContent=sums.length?'مفيش نتايج':'الملخصات هتتضاف هنا قريبًا';box.appendChild(e);}}
+      var ch=document.getElementById('chips');
+      ['الكل'].concat(SUBJ).forEach(function(s){var b=document.createElement('button');b.className='chip'+(s===cur?' on':'');b.textContent=s;b.onclick=function(){cur=s;ch.querySelectorAll('.chip').forEach(function(x){x.className='chip'+(x===b?' on':'');});rl();};ch.appendChild(b);});
+      document.getElementById('srch').addEventListener('input',function(e){q=e.target.value.trim();rl();});rl();
+      var TK=[];try{TK=JSON.parse(localStorage.getItem('tasks')||'[]');}catch(e){}
+      function sv(){try{localStorage.setItem('tasks',JSON.stringify(TK));}catch(e){}}
+      function pr(){var L=document.getElementById('plist');L.textContent='';var dn=0;TK.forEach(function(t,i){if(t.d){dn++;}var r=document.createElement('div');r.className='task'+(t.d?' done':'');var c=document.createElement('input');c.type='checkbox';c.checked=!!t.d;c.onchange=function(){t.d=c.checked;sv();pr();};var s=document.createElement('span');s.textContent=t.t;s.style.flex='1';var x=document.createElement('button');x.textContent='✕';x.setAttribute('aria-label','حذف');x.style.cssText='border:0;background:none;color:var(--muted);cursor:pointer;font-size:1rem';x.onclick=function(){TK.splice(i,1);sv();pr();};r.appendChild(c);r.appendChild(s);r.appendChild(x);L.appendChild(r);});var pc=TK.length?Math.round(dn*100/TK.length):0;document.getElementById('pbar').style.width=pc+'%';document.getElementById('ptxt').textContent=TK.length?('خلّصت '+dn+' من '+TK.length+' · '+pc+'%'):'أضف مهامك اليومية وعلّم على اللي خلّصته';}
+      document.getElementById('tadd').onclick=function(){var i=document.getElementById('tin');if(i.value.trim()){TK.push({t:i.value.trim(),d:false});i.value='';sv();pr();}};pr();
+    })();
+  </script>
+
+  <section>
+    <h2>جرّب سؤال دلوقتي 🎯</h2>
+    <div class="card">
+      <b style="direction:ltr;text-align:left">She ___ to school every day.</b>
+      <button class="opt" data-ok="0">go</button>
+      <button class="opt" data-ok="1">goes</button>
+      <button class="opt" data-ok="0">going</button>
+      <p id="res"></p>
+    </div>
+    <script>
+      document.querySelectorAll('.opt').forEach(function(b){b.addEventListener('click',function(){
+        var ok=b.getAttribute('data-ok')==='1';
+        b.className='opt '+(ok?'ok':'no');
+        document.getElementById('res').textContent=ok?'إجابة صح ✅ مع he / she / it بنزود s':'جرّب تاني، افتكر قاعدة s مع he / she / it';
+      });});
+    </script>
+  </section>
+
+  <section>
+    <h2>أسئلة شائعة</h2>
+    <details><summary>القناة لمين؟</summary><p>لطلاب تانية ثانوي، نظام البكالوريا والأزهر، دفعة 2027.</p></details>
+    <details><summary>إزاي أدخل القناة؟</summary><p>اضغط على زر “ادخل القناة” واضغط متابعة (Follow) من واتساب.</p></details>
+    <details><summary>إزاي أوصل للمحتوى القديم؟</summary><p>كل البوستات بتفضل في القناة، فاسحب لفوق وهتلاقي الملخصات والأسئلة السابقة.</p></details>
+    <details><summary>إزاي يوصلني كل جديد؟</summary><p>فعّل التنبيهات من أيقونة الجرس في القناة.</p></details>
+  </section>
+
+  <section>
+    <h2>آراء الطلاب 💬</h2>
+    <div class="post" style="margin-bottom:12px">
+      <p>“بجد القناة تحفة أوي، كتر خيرك”</p>
+      <p style="color:var(--muted);font-weight:700">آلاء إسماعيل</p>
+    </div>
+    <div id="revs" class="scroller" role="list" aria-label="آراء الطلاب"></div>
+    <p class="hint">اسحب لتشوف باقي الآراء ←</p>
+    <script>
+      var R=[
+        ['أدهم محمد 🩵','بجد القناة فرقت معايا في المذاكرة، بقيت ألاقي الملخصات والأسئلة في مكان واحد، وده ساعدني أنظم وقتي أحسن ❤️'],
+        ['جنى أحمد 🎀','أكتر حاجة عجبتني هي طريقة عرض المعلومات والتحفيز المستمر، بحس إن فيه حد بيشجعني أكمل حتى لما بكون زهقانة من المذاكرة 🥹💗'],
+        ['سيف الدين محمود ⚡','والله فكرة الامتحانات حلوة جدًا، خصوصًا إني بقدر أعرف مستوايا وأراجع الحاجات اللي بغلط فيها، ربنا يوفقكم يا رب ❤️🔥'],
+        ['حبيبة مصطفى 🌸','أنا كنت بتوه وسط المصادر الكتير، لكن لما بقيت أتابع القناة لقيت حاجات كتير متجمعة ومنظمة، ربنا يجازيكم خير على تعبكم معانا 🫶🏻'],
+        ['علي حسن 💪','المحتوى مش مجرد ملخصات وخلاص، فيه نصايح بتخليني أراجع نفسي وأحاول أحسن من مستوايا كل يوم، استمروا يا شباب ❤️'],
+        ['سلمى إبراهيم 🩷','أكتر حاجة بحبها البوستات التحفيزية، ساعات ببقى فاقدة الشغف وبمجرد ما أشوف بوست من القناة برجع أفتكر هدفي وأكمل 🌷'],
+        ['معاذ أشرف 🔥','بصراحة القناة جميلة جدًا، خصوصًا فكرة المسابقات والاختبارات، بتخلينا نراجع المنهج بطريقة مختلفة بدل ما تكون المذاكرة كلها روتين 💯'],
+        ['رقية إسلام 🎀','ربنا يباركلك يا حماده على المجهود اللي بتعمله، واضح إنك بتحاول تقدم حاجة تفيدنا بجد، وإن شاء الله نشوف الأكاديمية أكبر وأكبر ❤️🥹'],
+        ['كريم خالد 🚀','من الحاجات اللي عجبتني إن المحتوى بيشجعنا نشتغل على نفسنا ونستغل وقتنا، وإن شاء الله كلنا نحقق اللي بنحلم بيه السنة دي 💪📚'],
+        ['تسنيم محمود 🌹','ربنا يجعل كل تعبك في ميزان حسناتك يا حماده، وإن شاء الله تعبنا كلنا يجيب نتيجة حلوة ونفرح أهلنا في آخر السنة يا رب 🤍']
+      ];
+      var box=document.getElementById('revs');var SD=null;try{SD=JSON.parse(document.getElementById('site-data').textContent);}catch(e){}
+      if(SD){if(SD.reviews){R=SD.reviews;}var bn=document.getElementById('banner');if(SD.banner){bn.textContent=SD.banner;bn.hidden=false;}if(SD.time){document.getElementById('timeTxt').textContent=SD.time;}if(SD.about){document.getElementById('aboutTxt').textContent=SD.about;}}
+      window.__R=R;
+      R.forEach(function(r){var d=document.createElement('div');d.className='post rv';var p=document.createElement('p');p.textContent='“'+r[1]+'”';var n=document.createElement('p');n.style.cssText='color:var(--muted);font-weight:700';n.textContent=r[0];d.appendChild(p);d.appendChild(n);box.appendChild(d);});
+    </script>
+    <div class="card">
+      <b>رأيك بيفرق معانا</b>
+      <span>قولّنا استفدت إيه من القناة، وابعت رأيك في المجتمع.</span><br>
+      <a class="btn2" href="https://chat.whatsapp.com/JxT7Z26wagQAPPJkjGTgJn">ابعت رأيك</a>
+    </div>
+  </section>
+
+  <div class="cta">
+    <h2>ابدأ النهاردة</h2>
+    <p style="color:var(--muted);margin:0 0 12px">القناة للمحتوى اليومي، والمجتمع للنقاش مع زمايلك.</p>
+    <a class="btn" href="https://whatsapp.com/channel/0029VbBqFXoJ93wRhDyWuy12">انضم للقناة دلوقتي</a><br>
+    <a class="btn2" href="https://chat.whatsapp.com/JxT7Z26wagQAPPJkjGTgJn">انضم لمجتمع الطلاب 👥</a><br>
+    <a class="btn2" id="share" href="#">ابعتها لزميلك 🤝</a>
+  </div>
+  <script>
+    document.getElementById('share').href='https://wa.me/?text='+encodeURIComponent('قناة أكاديمية الأوائل لتانية ثانوي (بكالوريا وأزهر 2027): https://whatsapp.com/channel/0029VbBqFXoJ93wRhDyWuy12');
+  </script>
+</main>
+
+<div class="bar"><a class="btn" href="https://whatsapp.com/channel/0029VbBqFXoJ93wRhDyWuy12">ادخل القناة على واتساب</a></div>
+<footer>أكاديمية الأوائل 2027 · إدارة: حماده<br>اللي جاي أعظم بإذن الله</footer>
+<script>
+(function(){
+  var root=document.documentElement,btn=document.getElementById('themeToggle');
+  try{var saved=localStorage.getItem('awael-theme');if(saved==='dark'||saved==='light')root.setAttribute('data-theme',saved);}catch(e){}
+  function sync(){var dark=root.getAttribute('data-theme')==='dark';btn.textContent=dark?'☀':'☾';btn.setAttribute('aria-label',dark?'تفعيل المظهر الفاتح':'تفعيل المظهر الداكن');}
+  btn.addEventListener('click',function(){var dark=root.getAttribute('data-theme')==='dark';root.setAttribute('data-theme',dark?'light':'dark');try{localStorage.setItem('awael-theme',dark?'light':'dark')}catch(e){}sync();});sync();
+  // Make quiz answers one-shot, with a clear state and no accidental repeated scoring.
+  var opts=[].slice.call(document.querySelectorAll('.opt')),res=document.getElementById('res'),answered=false;
+  opts.forEach(function(b){b.addEventListener('click',function(){if(answered)return;answered=true;var ok=b.getAttribute('data-ok')==='1';b.classList.add(ok?'ok':'no');opts.forEach(function(x){x.disabled=true;if(x.getAttribute('data-ok')==='1')x.classList.add('ok')});res.textContent=ok?'إجابة صحيحة! مع he / she / it بنضيف s أو es حسب الفعل.':'الإجابة الصحيحة هي goes؛ مع She في المضارع البسيط بنضيف s أو es.';});});
+})();
+</script>
+</body>
+</html>
